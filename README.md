@@ -14,9 +14,5 @@ python main.py -i "input file" -o "output file"
 
 </p>
 </details>
-### How to Use
-```
-python main.py -i "input file" -o "output file"
-```
-After this command the program will 
+
 
