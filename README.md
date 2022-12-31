@@ -20,7 +20,7 @@ python main.py -i "input file" -o "output file"
 
 </p>
 </details>
-###
+
 <details><summary>Sample Output</summary>
 <p>
 
