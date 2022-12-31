@@ -5,7 +5,7 @@ This was my first real project I designed and implemented all on my own. I wante
 
 ### How to Use
 ```
-runme
+python main.py -i "input file" -o "output file"
 ```
 
 
