@@ -42,6 +42,6 @@ Time taken to compare file:
 </p>
 </details>
 
-### Note: 
+### NOTE: If you are going to use this program be sure to change the paths / files in some of the programs. 
 
 
