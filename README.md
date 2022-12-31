@@ -4,7 +4,9 @@ This was my first real project I designed and implemented all on my own. I wante
 
 ### How Does it Work?
 - After the command is given the input file is passed into a function to determine if it is a image or text file. Once it is determined the file is then converted to its binary form.
-- Step 2
+- Next, the binary file is written to a new text file in the ouput folder. Once that is complete the python script calls the main.java file which performs the encryption and decryption of the original binary file.
+- Finally, once that is finished the test.cpp file is executed which compares the decrypted file and original file to ensure they are identical.
+- Note: This program will need to be run inside some sort of Linux state due to the makefile. I developed this in Ubuntu however i can recommend Cygwin terminal for windows users. 
 
 ###
 <details><summary>How to Use</summary>
