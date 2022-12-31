@@ -42,4 +42,6 @@ Time taken to compare file:
 </p>
 </details>
 
+### Note: 
+
 
