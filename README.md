@@ -20,5 +20,26 @@ python main.py -i "input file" -o "output file"
 
 </p>
 </details>
+###
+<details><summary>Sample Output</summary>
+<p>
+
+#### Command
+
+```
+python main.py -i images/image1.jpg -o output/new.txt
+Image Successfully Converted.
+Encrypted Successfully
+Decrypted Successfully
+make: 'all' is up to date.
+Files Match!
+Time taken to compare file: 
+--- 4258 Microseconds ---
+
+  
+```
+
+</p>
+</details>
 
 
