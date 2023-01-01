@@ -42,6 +42,6 @@ Time taken to compare file:
 </p>
 </details>
 
-### NOTE: If you are going to use this program be sure to change the paths / files in some of the programs. 
+### NOTE: If you are going to use this program be sure to change the paths / files in some of the programs. The Encrypted and Decrypted files in the output folder are of the image1.jpg located inside the image folder.
 
 
